@@ -33,9 +33,9 @@ simply needs to be finalized, and I will upload it here.</p>
 
  #### More to come: work in progress
   - [Lab Phase 1](https://github.com/bgtestpage/Lab-Phase-1)
-  - [Home Lab Phase 2](https://github.com/bgtestpage/Home-Lab-Phase-2)
-  - [Home Lab Phase 3](https://github.com/bgtestpage/Home-Lab-Phase-3)
-  - [Home Lab Phase 4](https://github.com/bgtestpage/Home-Lab-Phase-4)
+  - [Lab Phase 2](https://github.com/bgtestpage/Lab-Phase-2)
+  - [Lab Phase 3](https://github.com/bgtestpage/Lab-Phase-3)
+  - [Lab Phase 4](https://github.com/bgtestpage/Lab-Phase-4)
 
 &nbsp;
     
@@ -62,7 +62,7 @@ simply needs to be finalized, and I will upload it here.</p>
 
 ### Scripting
   - #### Bash
-  [Automate airmon-ng](https://github.com/bgtestpage/Automate-Airmon-ng)
+  [Automate airmon-ng](https://github.com/bgtestpage/auto-airmon)
 
   - #### Python</b>
   (in progress)
