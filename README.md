@@ -32,10 +32,10 @@ and I am proud of the work I've done. It is still a work in progress, but the ma
 simply needs to be finalized, and I will upload it here.</p>
 
  #### More to come: work in progress
-  - [Lab Phase 1](https://github.com/bgtestpage/Lab-Phase-1)
-  - [Lab Phase 2](https://github.com/bgtestpage/Lab-Phase-2)
-  - [Lab Phase 3](https://github.com/bgtestpage/Lab-Phase-3)
-  - [Lab Phase 4](https://github.com/bgtestpage/Lab-Phase-4)
+  - [Lab Phase 1](https://github.com/blaine-geiger/Lab-Phase-1)
+  - [Lab Phase 2](https://github.com/blaine-geiger/Lab-Phase-2)
+  - [Lab Phase 3](https://github.com/blaine-geiger/Lab-Phase-3)
+  - [Lab Phase 4](https://github.com/blaine-geiger/Lab-Phase-4)
 
 &nbsp;
     
@@ -62,7 +62,7 @@ simply needs to be finalized, and I will upload it here.</p>
 
 ### Scripting
   - #### Bash
-  [Automate airmon-ng](https://github.com/bgtestpage/auto-airmon)
+  [Automating airmon-ng](https://github.com/blaine-geiger/auto-airmon)
 
   - #### Python</b>
   (in progress)
