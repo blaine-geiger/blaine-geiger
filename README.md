@@ -62,7 +62,7 @@ simply needs to be finalized, and I will upload it here.</p>
 
 ### Scripting
   - #### Bash
-  [Automating airmon-ng](https://github.com/blaine-geiger/auto-airmon)
+  [Automating airmon-ng](https://github.com/blaine-geiger/automate-airmon)
 
   - #### Python</b>
   (in progress)
