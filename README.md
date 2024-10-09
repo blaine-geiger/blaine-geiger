@@ -36,6 +36,7 @@ simply needs to be finalized, and I will upload it here.</p>
   - [Lab Phase 2](https://github.com/blaine-geiger/Lab-Phase-2)
   - [Lab Phase 3](https://github.com/blaine-geiger/Lab-Phase-3)
   - [Lab Phase 4](https://github.com/blaine-geiger/Lab-Phase-4)
+  - [Lab Phase 5](https://github.com/blaine-geiger/Lab-Phase-5)
 
 &nbsp;
     
