@@ -32,7 +32,7 @@ and I am proud of the work I've done. It is still a work in progress, but the ma
 simply needs to be finalized, and I will upload it here.</p>
 
  #### More to come: work in progress
-  - [Home Lab Phase 1](https://github.com/bgtestpage/Home-Lab-Phase-1)
+  - [Home Lab Phase 1](https://github.com/bgtestpage/Lab-Phase-1)
   - [Home Lab Phase 2](https://github.com/bgtestpage/Home-Lab-Phase-2)
   - [Home Lab Phase 3](https://github.com/bgtestpage/Home-Lab-Phase-3)
   - [Home Lab Phase 4](https://github.com/bgtestpage/Home-Lab-Phase-4)
