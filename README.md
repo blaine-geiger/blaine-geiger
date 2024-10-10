@@ -28,7 +28,7 @@ safe environment to learn about security, vulnerabilities, exploits, and carry o
 I will be able to use and upscale this rich learning environment long after I graduate and don't have access to the school's resources. 
 
 The best part is that I can say I have designed, constructed, and configured it all from the ground up. It is a humble lab, but it is my first lab, 
-and I am proud of the work I've done. It is still a work in progress, but the majority of the setup work is complete. The documentation
+and I am proud of the work I've done. It is still a work in progress, but the setup is complete. The documentation
 simply needs to be finalized, and I will upload it here.</p>
 
  #### More to come: work in progress
