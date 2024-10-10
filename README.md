@@ -25,7 +25,7 @@ This project is a small home lab with a simple design. Its purpose is experiment
 I have essentially recreated much of the virtual environment and machines that exist in my University's lab. These include Kali
 Linux, Metasploitable2, OWASP (Open Worldwide Application Security Project), WebGoat, and Damn Vulnerable Web App. This provides a 
 safe environment to learn about security, vulnerabilities, exploits, and carry out controlled penetration testing. 
-I will be able to use and upscale this rich learning environment long after I graduate and don't have access to the school's resources. 
+I will be able to use and upscale this rich learning environment after I graduate and no longer have access to the school's resources. 
 
 The best part is that I can say I have designed, constructed, and configured it all from the ground up. It is a humble lab, but it is my first lab, 
 and I am proud of the work I've done. It is still a work in progress, but the setup is complete. The documentation
