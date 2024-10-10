@@ -72,7 +72,7 @@ simply needs to be finalized, and I will upload it here.</p>
 &nbsp;
 
 <h2>Reach out to me:</h2>
-<a href="https://linkedin.com/in/bg" target="_blank">
+<a href="https://linkedin.com/in/bg](https://www.linkedin.com/in/blaine-geiger-999b81329/" target="_blank">
     <img align="left" alt="BG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> < LinkedIn
 
