@@ -44,7 +44,7 @@ simply needs to be finalized, and I will upload it here.</p>
   #### These devices are already built: documentation pending
   <ul>
     <li>Pwnagotchi: WiFi Deauthenticator and Handshake Capture (meant for further cracking of Wi-Fi AP passwords)</li>
-    <li>P4wnP1 ALOA: Bad USB device (flexible USB device seen as HID by host and capable of keystroke injection, payloads, data exfiltration, MITM attacks, etc.)</li>
+    <li>P4wnP1 ALOA: Bad USB device (flexible USB device seen as a HID by the host and capable of automated or remote keystroke injection, payloads, data exfiltration, MITM attacks, etc.)</li>
   </ul>
 
 &nbsp;
