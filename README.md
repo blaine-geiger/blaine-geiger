@@ -33,10 +33,10 @@ simply needs to be finalized, and I will upload it here.</p>
 
  #### More to come: work in progress
   - [Lab Phase 1: Design and equiment considerations](https://github.com/blaine-geiger/Lab-Phase-1)
-  - [Lab Phase 2: Installation and configuration](https://github.com/blaine-geiger/Lab-Phase-2)
-  - [Lab Phase 3: Network functionality and performance](https://github.com/blaine-geiger/Lab-Phase-3)
-  - [Lab Phase 4: Security analysis and remediation](https://github.com/blaine-geiger/Lab-Phase-4)
-  - [Lab Phase 5: Ensure virtualization capabilities](https://github.com/blaine-geiger/Lab-Phase-5)
+  - [Lab Phase 2: Installation and configuration of devices](https://github.com/blaine-geiger/Lab-Phase-2)
+  - [Lab Phase 3: Network functionality and performance testing](https://github.com/blaine-geiger/Lab-Phase-3)
+  - [Lab Phase 4: Security analysis and remediation of vulnerabilities](https://github.com/blaine-geiger/Lab-Phase-4)
+  - [Lab Phase 5: Ensure virtualization capability and install virtual machines](https://github.com/blaine-geiger/Lab-Phase-5)
 
 &nbsp;
     
