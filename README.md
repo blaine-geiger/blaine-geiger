@@ -22,7 +22,7 @@ This project is a small home lab with a simple design. Its purpose is experiment
 
 </details>
 
-I have essentially recreated much of the virtual environment and machines that exist in my University's lab. These include Kali
+I have essentially recreated a portion of the virtual environment and machines that exist in my University's lab. These include Kali
 Linux, Metasploitable2, OWASP (Open Worldwide Application Security Project), WebGoat, and Damn Vulnerable Web App. This provides a 
 safe environment to learn about security, vulnerabilities, exploits, and carry out controlled penetration testing. 
 I will be able to use and upscale this rich learning environment after I graduate and no longer have access to the school's resources. 
