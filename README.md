@@ -1,4 +1,4 @@
-# Hi, I'm Blaine ! <br/><br/><a href="https://github.com/bgtestpage">Cybersecurity Graduate</a>, <a href="https://www.linkedin.com/in/blaine-geiger-999b81329/">Entry Level Cybersecurity Professional</a>
+# <a href="https://github.com/bgtestpage">Cybersecurity Graduate</a>, <a href="https://www.linkedin.com/in/blaine-geiger-999b81329/">Entry Level Cybersecurity Professional</a>
 
 ## Cybersecurity Projects 
 
