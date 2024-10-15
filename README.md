@@ -58,11 +58,12 @@ simply needs to be finalized, and I will upload it here.</p>
 &nbsp;
 
 ### Scripting
-- #### Bash
-  - [Automating airmon-ng](https://github.com/blaine-geiger/automate-airmon)
 
-- #### Python
-  - *(in progress)*
+#### Bash
+- [Automating airmon-ng](https://github.com/blaine-geiger/automate-airmon)
+
+#### Python
+- *(in progress)*
  
 &nbsp;
 &nbsp;
