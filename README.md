@@ -31,7 +31,7 @@ The best part is that I can say I have designed, constructed, and configured it 
 and I am proud of the work I've done. It is still a work in progress, but the setup is complete. The documentation
 simply needs to be finalized, and I will upload it here.</p>
 
- #### *More to come: work in progress*
+ #### *More to come: Work in progress*
   - [Lab Phase 1: Design and equiment considerations](https://github.com/blaine-geiger/Lab-Phase-1)
   - [Lab Phase 2: Installation and configuration of devices](https://github.com/blaine-geiger/Lab-Phase-2)
   - [Lab Phase 3: Network functionality and performance testing](https://github.com/blaine-geiger/Lab-Phase-3)
@@ -41,7 +41,7 @@ simply needs to be finalized, and I will upload it here.</p>
 &nbsp;
     
 ### Raspberry Pi Hacking Devices: Building and Testing<i> (For Ethical Hacking and Analysis)</i>
-  #### *These devices have been built: documentation pending*
+  #### *Devices built: Documentation pending*
   - [Pwnagotchi: Automated WiFi Deauthenticator & WPA Handshake Capture Device for WPA password cracking](https://github.com/blaine-geiger/Pwnagotchi)
   - P4wnP1 ALOA: Flexible Bad USB for HID Keystroke Injection, Payload Delivery, Exfiltration, and MITM Attacks
 
