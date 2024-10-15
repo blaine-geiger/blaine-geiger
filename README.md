@@ -37,8 +37,7 @@ I’m proud of this lab as my first major cybersecurity project. While it’s st
   - [Lab Phase 1: Design and equiment considerations](https://github.com/blaine-geiger/Lab-Phase-1)
   - [Lab Phase 2: Installation and configuration of devices](https://github.com/blaine-geiger/Lab-Phase-2)
   - [Lab Phase 3: Network functionality and performance testing](https://github.com/blaine-geiger/Lab-Phase-3)
-  - [Lab Phase 4: Security analysis and remediation of vulnerabilities](https://github.com/blaine-geiger/Lab-Phase-4)
-  - [Lab Phase 5: Ensure virtualization capability and install virtual machines](https://github.com/blaine-geiger/Lab-Phase-5)
+  - [Lab Phase 4: Ensure virtualization capability and install virtual machines](https://github.com/blaine-geiger/Lab-Phase-5)
 
 #### Automation Phase: Integrate a Raspberry Pi 5 to automate firewall logging, network monitoring with Prometheus and Grafana, secure VPN setup, lightweight SIEM with ELK stack, alerting with fail2ban, automated log backups, and configuration management for network devices.
 
