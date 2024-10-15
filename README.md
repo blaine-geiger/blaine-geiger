@@ -49,13 +49,11 @@ simply needs to be finalized, and I will upload it here.</p>
 
 ### Wi-Fi Hacking<i> (For Ethical Hacking and Analysis)</i>
   #### The Wi-Fi adapter devices have been configured and tested: documentation pending
-  <ul>
-    <li>Wireless Adapters and Kali Linux - using ALFA AWUS 036ACS and ALFA AWUS 036ACH</li>
-    <li>Passive Sniffing: airmon-ng (there is no hiding)</li>
-    <li>Capturing Handshakes: airodump-ng</li>
-    <li>Wireshark Packet Analysis</li>
-    <li>Wi-Fi Access Point Password Cracking: aircrack-ng</li>
-  </ul>
+- Wireless Adapters with Kali Linux: Using ALFA AWUS 036ACS and ALFA AWUS 036ACH
+- Passive Sniffing: Enabling monitor mode with `airmon-ng`
+- Capturing WPA Handshakes: Using `airodump-ng`
+- Packet Analysis: Analyzing traffic with Wireshark
+- Wi-Fi Password Cracking: Decrypting WPA handshakes using `aircrack-ng`
 
 &nbsp;
 
@@ -72,7 +70,7 @@ simply needs to be finalized, and I will upload it here.</p>
 <h2>Reach out to me:</h2>
 <a href="https://www.linkedin.com/in/blaine-geiger-999b81329/" target="_blank">
     <img align="left" alt="BG | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a> < LinkedIn
+</a>
 
 
 
