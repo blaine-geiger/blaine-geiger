@@ -43,7 +43,7 @@ simply needs to be finalized, and I will upload it here.</p>
 ### Raspberry Pi Hacking Devices: Building and Testing<i> (For Ethical Hacking and Analysis)</i>
   #### These devices are already built: documentation pending
   - [Pwnagotchi: Automated WiFi Deauthenticator & WPA Handshake Capture Device for WPA password cracking](https://github.com/blaine-geiger/Pwnagotchi)
-  - P4wnP1 ALOA: Bad USB device (seen as HID by host: automated or remote keystroke injection, payloads, exfiltration, MITM attacks, etc.)
+  - P4wnP1 ALOA: Flexible Bad USB for HID Keystroke Injection, Payload Delivery, Exfiltration, and MITM Attacks
 
 &nbsp;
 
