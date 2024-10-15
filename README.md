@@ -48,7 +48,7 @@ simply needs to be finalized, and I will upload it here.</p>
 &nbsp;
 
 ### Wi-Fi Hacking<i> (For Ethical Hacking and Analysis)</i>
-  #### The Wi-Fi adapter devices have been configured and tested: documentation pending
+  #### *Wi-Fi adapters configured and tested: Documentation pending*
 - Wireless Adapters with Kali Linux: Using ALFA AWUS 036ACS and ALFA AWUS 036ACH
 - Passive Sniffing: Enabling monitor mode with `airmon-ng`
 - Capturing WPA Handshakes: Using `airodump-ng`
