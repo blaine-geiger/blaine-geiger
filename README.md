@@ -37,19 +37,20 @@ device configuration, and maintaining a controlled environment for ethical hacki
 
 The setup is flexible and scalable. While it’s still a work in progress, the setup is complete, and I’m finalizing the documentation to share here soon.
 
- #### *More to come: Work in progress*
+ ### *More to come: Work in progress*
   - [Lab Phase 1: Design and equiment considerations](https://github.com/blaine-geiger/Lab-Phase-1)
   - [Lab Phase 2: Installation and configuration of devices](https://github.com/blaine-geiger/Lab-Phase-2)
   - [Lab Phase 3: Network functionality and performance testing](https://github.com/blaine-geiger/Lab-Phase-3)
   - [Lab Phase 4: Ensure virtualization capability and install virtual machines](https://github.com/blaine-geiger/Lab-Phase-4)
 
-#### Automation Phase: Integrate a Raspberry Pi 5 or additional mini PC to run services, automate, and provide NAS functionality:
-- Firewall Logging: Implement logging solutions to monitor firewall activities.
-- Network Monitoring: Utilize Prometheus and Grafana for real-time network monitoring and visualization.
-- Lightweight SIEM: Deploy an ELK stack for a streamlined Security Information and Event Management solution.
-- Alerting: Set up fail2ban for proactive alerting and security against unauthorized access attempts.
-- Automated Log Backups: Implement automated processes for backing up logs regularly.
-- Configuration Management: Manage configurations for network devices to ensure consistency and compliance.
+  
+### Automation and Integration: Integrate a Raspberry Pi 5 or additional mini PC to run services, automate processes, and provide NAS functionality, including:
+- **Firewall Logging**: Implement logging solutions to monitor firewall activities.
+- **Network Monitoring**: Utilize Prometheus and Grafana for real-time network monitoring and visualization.
+- **Lightweight SIEM**: Deploy an ELK stack for a streamlined Security Information and Event Management solution.
+- **Alerting**: Set up fail2ban for proactive alerting and security against unauthorized access attempts.
+- **Automated Log Backups**: Implement automated processes for backing up logs regularly.
+- **Configuration Management**: Manage configurations for network devices to ensure consistency and compliance.
 
 &nbsp;
     
