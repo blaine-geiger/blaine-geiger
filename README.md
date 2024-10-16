@@ -43,7 +43,13 @@ The setup is flexible and scalable. While it’s still a work in progress, the s
   - [Lab Phase 3: Network functionality and performance testing](https://github.com/blaine-geiger/Lab-Phase-3)
   - [Lab Phase 4: Ensure virtualization capability and install virtual machines](https://github.com/blaine-geiger/Lab-Phase-4)
 
-#### Automation Phase: Integrate a Raspberry Pi 5 to automate firewall logging, network monitoring with Prometheus and Grafana, secure VPN setup, lightweight SIEM with ELK stack, alerting with fail2ban, automated log backups, and configuration management for network devices.
+#### Automation Phase: Integrate a Raspberry Pi 5 or additional mini PC to run services, automate, and store:
+- Firewall logging
+- Network monitoring possibly with Prometheus and Grafana
+- Lightweight SIEM with ELK stack
+- Alerting with fail2ban
+- Automated log backups
+- Configuration management for network devices.
 
 &nbsp;
     
