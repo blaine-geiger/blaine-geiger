@@ -62,8 +62,8 @@ The setup is flexible and scalable. While it’s still a work in progress, the s
 &nbsp;
 
 ### Wi-Fi Hacking<i> (For Ethical Hacking and Analysis)</i>
-  #### *Wi-Fi adapters configured and tested: Documentation pending*
-- Wireless Adapters with Kali Linux: Using ALFA AWUS 036ACS and ALFA AWUS 036ACH
+  #### *Wi-Fi adapter configured and tested: Documentation pending*
+- Wireless Adapters with Kali Linux: Using ALFA AWUS 036ACS
 - Passive Sniffing: Enabling monitor mode with `airmon-ng`
 - Capturing WPA Handshakes: Using `airodump-ng`
 - Packet Analysis: Analyzing traffic with Wireshark
