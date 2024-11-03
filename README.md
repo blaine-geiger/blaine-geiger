@@ -22,7 +22,12 @@ This project is a small home lab with a straightforward design focused on experi
 - Virtualization
 - Vulnerability scanning
 - Host/network hardening
-- Penetration Testing
+- Penetration testing
+- Headless Ubuntu server configuration
+- Linux CLI and system study
+- Docker
+- yaml and other config files
+- Developing services browser GUI
 
 </details>
 
