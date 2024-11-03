@@ -37,11 +37,11 @@ The setup is flexible and scalable. While it’s still a work in progress, the s
 
 </details>
 
-  - [Lab Phase 1: Design and equiment considerations](https://github.com/blaine-geiger/Lab-Phase-1)
-  - [Lab Phase 2: Installation and configuration of devices](https://github.com/blaine-geiger/Lab-Phase-2)
-  - [Lab Phase 3: Network functionality and performance testing](https://github.com/blaine-geiger/Lab-Phase-3)
-  - [Lab Phase 4: Ensure virtualization capability and install virtual machines](https://github.com/blaine-geiger/Lab-Phase-4)
-  - Lab Phase 5: Vulnerablility scanning and remediation with Nessus Essentials (omitted for data confidentiality)
+  - [**Lab Phase 1**](https://github.com/blaine-geiger/Lab-Phase-1) -  Design and equiment considerations
+  - [**Lab Phase 2**](https://github.com/blaine-geiger/Lab-Phase-2) - Installation and configuration of devices
+  - [**Lab Phase 3**](https://github.com/blaine-geiger/Lab-Phase-3) - Network functionality and performance testing
+  - [**Lab Phase 4**](https://github.com/blaine-geiger/Lab-Phase-4) - Ensure virtualization capability and install virtual machines
+  - **Lab Phase 5** - Vulnerablility scanning and remediation with Nessus Essentials (omitted for data confidentiality)
 <br>
 
 
@@ -59,37 +59,37 @@ The setup is flexible and scalable. While it’s still a work in progress, the s
 
 </details>
 
-- [Pi 5 Ubuntu Server: Docker, Telegraf, InfluxDB, and Grafana](https://github.com/blaine-geiger/Pi5-Ubuntu-Server)
-- **Firewall Logging**: Implement logging solutions to monitor firewall activities.
-- **Network Monitoring**: Utilize Prometheus and Grafana for real-time network monitoring and visualization.
-- **Lightweight SIEM**: Deploy an ELK stack for a streamlined Security Information and Event Management solution.
-- **Alerting**: Set up fail2ban for proactive alerting and security against unauthorized access attempts.
-- **Automated Log Backups**: Implement automated processes for backing up logs regularly.
-- **Configuration Management**: Manage configurations for network devices to ensure consistency and compliance.
+- [**Pi 5 Ubuntu Server**](https://github.com/blaine-geiger/Pi5-Ubuntu-Server) - Docker, Telegraf, InfluxDB, and Grafana
+- **Firewall Logging** - Implement logging solutions to monitor firewall activities.
+- **Network Monitoring** - Utilize Prometheus and Grafana for real-time network monitoring and visualization.
+- **Lightweight SIEM** - Deploy a stack for a streamlined Security Information and Event Management solution.
+- **Alerting** - Set up fail2ban for proactive alerting and security against unauthorized access attempts.
+- **Automated Log Backups** - Implement automated processes for backing up logs regularly.
+- **Configuration Management** - Manage configurations for network devices to ensure consistency and compliance.
 
 &nbsp;
     
 ### Raspberry Pi Hacking Devices: Building and Testing<i> (For Ethical Hacking and Analysis)</i>
   #### *Devices built: Documentation pending*
-  - [Pwnagotchi: Automated WiFi Deauthenticator & WPA Handshake Capture Device for WPA password cracking](https://github.com/blaine-geiger/Pwnagotchi)
-  - P4wnP1 ALOA: Flexible Bad USB for HID Keystroke Injection, Payload Delivery, Exfiltration, and MITM Attacks
+  - [**Pwnagotchi**](https://github.com/blaine-geiger/Pwnagotchi) - Automated WiFi Deauthenticator & WPA Handshake Capture Device for WPA password cracking
+  - **P4wnP1 ALOA** - Flexible Bad USB for HID Keystroke Injection, Payload Delivery, Exfiltration, and MITM Attacks
 
 &nbsp;
 
 ### Wi-Fi Hacking<i> (For Ethical Hacking and Analysis)</i>
   #### *Wi-Fi adapter configured and tested: Documentation pending*
-- Wireless Adapters with Kali Linux: Using ALFA AWUS 036ACS
-- Passive Sniffing: Enabling monitor mode with `airmon-ng`
-- Capturing WPA Handshakes: Using `airodump-ng`
-- Packet Analysis: Analyzing traffic with Wireshark
-- Wi-Fi Password Cracking: Decrypting WPA handshakes using `aircrack-ng`
+- **Wireless Adapters with Kali Linux** - Using ALFA AWUS 036ACS
+- **Passive Sniffing** - Enabling monitor mode with `airmon-ng`
+- **Capturing WPA Handshakes** - Using `airodump-ng`
+- **Packet Analysis** - Analyzing traffic with Wireshark
+- **Wi-Fi Password Cracking** - Decrypting WPA handshakes using `aircrack-ng`
 
 &nbsp;
 
 ### Scripting
 
 #### Bash
-- [Automating airmon-ng](https://github.com/blaine-geiger/automate-airmon)
+- [**Automating airmon-ng**](https://github.com/blaine-geiger/automate-airmon) - Simple script to automate repetitive CLI
 
 #### Python
 - *(in progress)*
