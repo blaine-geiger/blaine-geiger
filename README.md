@@ -59,7 +59,7 @@ The setup is flexible and scalable. While it’s still a work in progress, the s
 
 </details>
 
-- [Pi 5 Ubuntu Server: Docker, and Telegraf, InfluxDB, and Grafana](https://github.com/blaine-geiger/Pi5-Ubuntu-Server)
+- [Pi 5 Ubuntu Server: Docker, Telegraf, InfluxDB, and Grafana](https://github.com/blaine-geiger/Pi5-Ubuntu-Server)
 - **Firewall Logging**: Implement logging solutions to monitor firewall activities.
 - **Network Monitoring**: Utilize Prometheus and Grafana for real-time network monitoring and visualization.
 - **Lightweight SIEM**: Deploy an ELK stack for a streamlined Security Information and Event Management solution.
