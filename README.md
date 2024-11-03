@@ -41,7 +41,7 @@ The setup is flexible and scalable. While it’s still a work in progress, the s
   - [**Lab Phase 2**](https://github.com/blaine-geiger/Lab-Phase-2) - Installation and configuration of devices
   - [**Lab Phase 3**](https://github.com/blaine-geiger/Lab-Phase-3) - Network functionality and performance testing
   - [**Lab Phase 4**](https://github.com/blaine-geiger/Lab-Phase-4) - Ensure virtualization capability and install virtual machines
-  - **Lab Phase 5** - Vulnerablility scanning and remediation with Nessus Essentials (omitted for data confidentiality)
+  - Lab Phase 5 - Vulnerablility scanning and remediation with Nessus Essentials (omitted for data confidentiality)
 <br>
 
 
