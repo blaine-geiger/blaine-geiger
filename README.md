@@ -42,9 +42,11 @@ The setup is flexible and scalable. While it’s still a work in progress, the s
   - [Lab Phase 2: Installation and configuration of devices](https://github.com/blaine-geiger/Lab-Phase-2)
   - [Lab Phase 3: Network functionality and performance testing](https://github.com/blaine-geiger/Lab-Phase-3)
   - [Lab Phase 4: Ensure virtualization capability and install virtual machines](https://github.com/blaine-geiger/Lab-Phase-4)
+  - Lab Phase 5: Vulnerablility scanning with Nessus Essentials (omitted for data confidentiality)
 
   
 ### Automation and Integration: Integrate a Raspberry Pi 5 or additional mini PC to run services, automate processes, and provide NAS functionality, including:
+- [Pi 5 Ubuntu Server: Docker, and Telegraf, InfluxDB, and Grafana](https://github.com/blaine-geiger/Pi5-Ubuntu-Server)
 - **Firewall Logging**: Implement logging solutions to monitor firewall activities.
 - **Network Monitoring**: Utilize Prometheus and Grafana for real-time network monitoring and visualization.
 - **Lightweight SIEM**: Deploy an ELK stack for a streamlined Security Information and Event Management solution.
