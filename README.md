@@ -54,6 +54,7 @@ The setup is flexible and scalable. While it’s still a work in progress, the s
 - Headless Ubuntu server configuration
 - Linux CLI and system study
 - Docker
+- docker-compose files
 - yaml and other config files
 - Developing network services browser based GUI
 
