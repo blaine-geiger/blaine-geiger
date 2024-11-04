@@ -60,6 +60,7 @@ The setup is flexible and scalable. While it’s still a work in progress, the s
 </details>
 
 - [**Pi 5 Ubuntu Server**](https://github.com/blaine-geiger/Pi5-Ubuntu-Server) - Docker, Telegraf, InfluxDB, and Grafana
+- [**Home Network Dashboard**](https://github.com/blaine-geiger/home-network-dashboard) - Quick access links to frequently used network GUIs
 - **Firewall Logging** - Implement logging solutions to monitor firewall activities.
 - **Network Monitoring** - Utilize Prometheus and Grafana for real-time network monitoring and visualization.
 - **Lightweight SIEM** - Deploy a stack for a streamlined Security Information and Event Management solution.
