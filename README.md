@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=1000&width=750&height=75&lines=Hi%2C+I'm+Blaine.;Glad+you+made+it+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&width=1000&height=75&lines=Hi%2C+I'm+Blaine.+Glad+you+made+it+here.)](https://git.io/typing-svg)
 # Entry Level Cybersecurity Professional 
 
 A recent BS in Information Technology graduate with well-rounded knowledge, including operating systems, hardware and software support, troubleshooting, networking, and security management.
