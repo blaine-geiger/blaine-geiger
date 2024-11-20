@@ -1,5 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi,%20I'm%20Blaine%20👨‍💻&width=800&height=100)](https://github.com/Akshay090/svg-banners)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=4000&pause=1000&width=750&height=75&lines=Hi%2C+I'm+Blaine.;Glad+you+made+it+here.)](https://git.io/typing-svg)
 # Entry Level Cybersecurity Professional 
 
 A recent BS in Information Technology graduate with well-rounded knowledge, including operating systems, hardware and software support, troubleshooting, networking, and security management.
