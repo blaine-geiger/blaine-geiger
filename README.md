@@ -36,12 +36,8 @@ My aim is to enter the cybersecurity field as an Intern or Junior SOC analyst. I
 |------------------------------------------|--------------------------------|
 | <b>Bash</b><details><summary><i>Details</i></summary><br>- Bash shell scripting<br>- Automation of repitive CLI<br>- Configure monitor mode<br>- Macchanger<br>- Streamline workflow</details> |[**Automating airmon-ng**](https://github.com/blaine-geiger/automate-airmon)<br><br>![Kali](https://img.shields.io/badge/Kali-268BEE?style=plastic&logo=kalilinux&logoColor=white)![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)|
 
-<br/>
-
-## TechStack
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Kali](https://img.shields.io/badge/Kali-268BEE?plastic&logo=kalilinux&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaine-geiger&show_icons=true&theme=radical&hide=commits)
 
