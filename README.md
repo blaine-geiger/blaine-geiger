@@ -27,7 +27,7 @@ My aim is to enter the cybersecurity field as an Intern or Junior SOC analyst. I
 | Skill                                    | Project                        |
 |------------------------------------------|--------------------------------|
 | <b>WPA Handshakes and WAP Cracking</b><details><summary><i>Details</i></summary><br>- WPA handshakes<br>- Deauthentication<br>- config.toml files<br>- Bettercap<br>- pcap files<br>- Password cracking<br>- Kali<br>- Hashcat<br>- Wordlists</details> |[**Pwnagotchi - Handshake Capture Device**](https://github.com/blaine-geiger/Pwnagotchi)<br><br>![Kali](https://img.shields.io/badge/Kali-268BEE?style=plastic&logo=kalilinux&logoColor=white)![Static Badge](https://img.shields.io/badge/Hashcat-purple?style=plastic)|
-| <b>USB Wi-Fi Adapters for Monitor Mode</b><details><summary><i>Details</i></summary><br>- Adapter chipsets<br>- Linux driver installation<br>- Aircrack-ng suite<br>- Monitor mode<br>- Passive sniffing<br>- Packet injection</details> |[**ALFA AWUS ACS036 coming soon**](https://github.com/blaine-geiger/)<br><br>![Kali](https://img.shields.io/badge/Kali-268BEE?style=plastic&logo=kalilinux&logoColor=white)![Static Badge](https://img.shields.io/badge/Wi--Fi%20Hacking-crimson?style=plastic)|
+| <b>USB Wi-Fi Adapters for Monitor Mode</b><details><summary><i>Details</i></summary><br>- Adapter chipsets<br>- Linux driver installation<br>- Aircrack-ng suite<br>- Monitor mode<br>- Passive sniffing<br>- Packet injection</details> |[**ALFA AWUS ACS036**](https://github.com/blaine-geiger/alfa-036-acs)<br><br>![Kali](https://img.shields.io/badge/Kali-268BEE?style=plastic&logo=kalilinux&logoColor=white)![Static Badge](https://img.shields.io/badge/Wi--Fi%20Hacking-crimson?style=plastic)|
 
 
 
