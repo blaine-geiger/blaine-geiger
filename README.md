@@ -26,15 +26,15 @@ My aim is to enter the cybersecurity field as an Intern or Junior SOC analyst. I
 ### Ethical Hacking
 | Skill                                    | Project                        |
 |------------------------------------------|--------------------------------|
-| <b>Wi-Fi Hacking</b><details><summary><i>Click Here for topics</i></summary><br>- WPA handshakes<br>- Deauthentication<br>- config.toml files<br>- Bettercap<br>- pcap files<br>- Password cracking<br>- Kali<br>- Hashcat<br>- Wordlists</details> |[**Pwnagotchi - Handshake Capture Device**](https://github.com/blaine-geiger/Pwnagotchi)
-| <b>USB Wi-Fi Adapters for Monitor Mode</b><details><summary><i>Click Here for topics</i></summary><br>- Adapter chipsets<br>- Linux driver installation<br>- Aircrack-ng suite<br>- Monitor mode<br>- Passive sniffing<br>- Packet injection</details> |[**ALFA AWUS ACS036 coming soon**](https://github.com/blaine-geiger/)  
+| <b>Wi-Fi Hacking</b><details><summary><i>Details</i></summary><br>- WPA handshakes<br>- Deauthentication<br>- config.toml files<br>- Bettercap<br>- pcap files<br>- Password cracking<br>- Kali<br>- Hashcat<br>- Wordlists</details> |[**Pwnagotchi - Handshake Capture Device**](https://github.com/blaine-geiger/Pwnagotchi)<br><br>![Kali](https://img.shields.io/badge/Kali-268BEE?style=plastic&logo=kalilinux&logoColor=white)|
+| <b>USB Wi-Fi Adapters for Monitor Mode</b><details><summary><i>Details</i></summary><br>- Adapter chipsets<br>- Linux driver installation<br>- Aircrack-ng suite<br>- Monitor mode<br>- Passive sniffing<br>- Packet injection</details> |[**ALFA AWUS ACS036 coming soon**](https://github.com/blaine-geiger/)<br><br>![Kali](https://img.shields.io/badge/Kali-268BEE?style=plastic&logo=kalilinux&logoColor=white)|
 
 <br/>
 
 ### Scripting
 | Skill                                    | Project                        |
 |------------------------------------------|--------------------------------|
-| <b>Bash</b><details><summary><i>Click Here for topics</i></summary><br>- Bash shell scripting<br>- Automation of repitive CLI<br>- Configure monitor mode<br>- Macchanger<br>- Streamline workflow</details> |[**Automating airmon-ng**](https://github.com/blaine-geiger/automate-airmon)|
+| <b>Bash</b><details><summary><i>Details</i></summary><br>- Bash shell scripting<br>- Automation of repitive CLI<br>- Configure monitor mode<br>- Macchanger<br>- Streamline workflow</details> |[**Automating airmon-ng**](https://github.com/blaine-geiger/automate-airmon)<br><br>![Kali](https://img.shields.io/badge/Kali-268BEE?style=plastic&logo=kalilinux&logoColor=white)![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white)|
 
 <br/>
 
