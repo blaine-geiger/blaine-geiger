@@ -19,7 +19,7 @@ My aim is to enter the cybersecurity field as an Intern or Junior SOC analyst. I
 ### Development
 | Skill                                    | Project                        |
 |------------------------------------------|--------------------------------|
-| <b>Web Development</b><details><summary><i>Click Here for topics</i></summary><br>- HTML, CSS<br>- UI/UX<br>- Optimized services navigation</details> |[**Services Landing and Navigation Page**](https://github.com/blaine-geiger/home-network-dashboard)| 
+| <b>Web Development</b><details><summary><i>Details</i></summary><br>Using HTML and CSS to develop a web interface<br> for easy navigation of network Docker service GUIs.<br> Attention to design and UI/UX details.</details> |[**Services Landing and Navigation Page**](https://github.com/blaine-geiger/home-network-dashboard)<br><br>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)| 
 
 <br/>
 
