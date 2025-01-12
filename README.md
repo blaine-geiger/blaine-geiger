@@ -8,7 +8,7 @@ My aim is to enter the cybersecurity field as an Intern or Junior SOC analyst. I
 
 ## Projects 
 
-### Networking
+### Cybersecurity and Networking
 | Skill                                    | Project                        |
 |------------------------------------------|--------------------------------|
 | <b>Network Configuration and Virtualization</b><details><summary><i>Details</i></summary><br>- VMware<br>- Subnetting<br>- Firewall Rules<br>- IP assignments<br>- DHCP<br>- DNS<br>- Virtualization<br>- Vulnerability scanning<br>- Host/Network hardening<br>- Pen testing</details> |[**Home Cybersecurity Lab**](https://github.com/blaine-geiger/homelab)<br><br>![Static Badge](https://img.shields.io/badge/VMware-yellow?style=plastic)![Static Badge](https://img.shields.io/badge/pfSense-green?style=plastic)![Static Badge](https://img.shields.io/badge/Nessus-rebeccapurple?style=plastic)|
