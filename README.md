@@ -42,7 +42,7 @@ My aim is to enter the cybersecurity field as an Intern or Junior SOC Analyst. I
 
 # Current Projects
 * ### ProxMox Virtualization Server
-ProxMox virtualization server with a complex virtual network environment. Includes full networking and device configurations, vLANs, virtual pfSense, Linux and Windows (servers and workstations), Docker and Linux containers, XDR and SIEM (Wazuh), and threat emulation (Caldera), etc. Documentation pending.  
+ProxMox virtualization server with a complex virtual network environment. Includes full networking and device configurations, vLANs, virtual pfSense, Linux and Windows (servers and workstations), Docker and Linux containers, XDR and SIEM (Wazuh), and adversary threat emulation (Caldera by MITRE), etc. Documentation pending.  
 
 * ### Wi-Fi Pineapple Clone
 Hak-5 Pineapple clone using more cost effective hardware. For ethical hacking experimentation within a homelab environment. Documentation pending.
