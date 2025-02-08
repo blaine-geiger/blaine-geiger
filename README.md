@@ -8,7 +8,7 @@ My aim is to enter the cybersecurity field as an Intern or Junior SOC Analyst. I
 
 ### Action
 * Preparing for and scheduling the CompTIA Security+ examination.  
-* Progressing through TryHackMe SOC Analyst 1 learning path and certification.
+* Progressing through TryHackMe SOC Analyst 1 learning path certification.
 * Conducting ongoing homelab projects.
 
 
