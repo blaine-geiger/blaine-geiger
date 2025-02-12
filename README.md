@@ -53,7 +53,7 @@ Hak-5 Pineapple clone using more cost effective hardware. For ethical hacking ex
 
 
 <h2>Contact:</h2>
-<a href="https://linkedin.com/in/blaine-geiger-999b81329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blaine-geiger-999b81329" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/blaine-geiger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="blaine-geiger-999b81329" height="30" width="40" /></a>
 
 
 
