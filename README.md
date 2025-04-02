@@ -1,15 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&width=1000&height=75&lines=Hi%2C+I'm+Blaine.+Glad+you+made+it+here.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&repeat=false&width=1000&height=75&lines=I'm+Blaine.+Glad+you+made+it+here.)](https://git.io/typing-svg)
+
 # Entry Level Cybersecurity Professional 
 
-A recent BS in Information Technology graduate with well-rounded knowledge, including operating systems, hardware and software support, troubleshooting, networking, and security management.
+A recent BS in Information Technology with an Undergraduate Certificate in Cybersecurity. I am a former healthcare professional who brings a detail-oriented and analytical background with a proven ability to perform and communicate in professional environments.
 
 ### Objective
-My aim is to enter the cybersecurity field as an Intern or Junior SOC Analyst. I am eager to begin this journey and continue my development.
+Currently focused on earning an opportunity for an internship or entry-level position where I can contribute to a team, apply my current skillset, and continue to develop. 
 
 ### Action
-* Preparing for and scheduling the CompTIA Security+ examination.  
-* Progressing through TryHackMe SOC Analyst 1 learning path certification.
-* Conducting ongoing homelab projects.
+Actively engaging in learning opportunities. I have consistently invested extra effort and made it my priority to develop my knowledge and practical skills in addition to theory.
+* Preparing for and scheduling the CompTIA Security+ examination
+* Completed TryHackMe SOC Analyst 1 learning path certification
+* Participating in HackTheBox
+* Conducting ongoing home lab projects
 
 
 # Past Projects 
