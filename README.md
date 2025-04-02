@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=4000&pause=1000&repeat=false&width=1000&height=75&lines=I'm+Blaine.+Glad+you+made+it+here.)](https://git.io/typing-svg)
-
 # Entry Level Cybersecurity Professional 
 
 A recent BS in Information Technology with an Undergraduate Certificate in Cybersecurity. I am a former healthcare professional who brings a detail-oriented and analytical background with a proven ability to perform and communicate in professional environments.
