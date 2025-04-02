@@ -9,7 +9,7 @@ Currently focused on earning an opportunity for an internship or entry-level pos
 
 ### Action
 Actively engaging in learning opportunities. I have consistently invested extra effort and made it my priority to develop my knowledge and practical skills in addition to theory.
-* Preparing for and scheduling the CompTIA Security+ examination
+* Preparing for and scheduling the CompTIA Security+ examination <i>(April 2025)</i>
 * Completed TryHackMe SOC Analyst 1 learning path certification
 * Participating in HackTheBox
 * Conducting ongoing home lab projects
