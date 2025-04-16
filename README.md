@@ -1,16 +1,19 @@
 # Entry Level Cybersecurity Professional 
 
-A recent BS in Information Technology with an Undergraduate Certificate in Cybersecurity. I am a former healthcare professional who brings a detail-oriented and analytical background with a proven ability to perform and communicate in professional environments.
+A student of BS in Information Technology with an Undergraduate Certificate in Cybersecurity.  
+
+Former healthcare professional who brings a detail-oriented and analytical background with a proven ability to perform and communicate in demanding professional environments. 
 
 ### Objective
-Currently focused on earning an opportunity for an internship or entry-level position where I can contribute to a team, apply my current skillset, and continue to develop. 
+Focused on earning an opportunity where I can contribute to a team, apply my current skillset, and continue to develop.
 
 ### Action
-Actively engaging in learning opportunities. I have consistently invested extra effort and made it my priority to develop my knowledge and practical skills in addition to theory.
-* Preparing for and scheduling the CompTIA Security+ examination <i>(April 2025)</i>
-* Completed TryHackMe SOC Analyst 1 learning path
+Actively engaging in learning opportunities and consistently investing extra effort to develop practical skills in addition to theory.
+* CompTIA Security+ Certification
+* Completed TryHackMe SOC Analyst 1 Learning Path
 * Participating in HackTheBox
 * Conducting ongoing home lab projects
+* CCNA and AWS Cloud Practitioner <i>(in progress)</i>
 
 
 # Past Projects 
