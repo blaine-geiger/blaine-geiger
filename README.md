@@ -9,11 +9,11 @@ Focused on earning an opportunity where I can contribute to a team, apply my cur
 
 ### Action
 Actively engaging in learning opportunities and consistently investing extra effort to develop practical skills in addition to theory.
-* CompTIA Security+ Certification
-* Completed TryHackMe SOC Analyst 1 Learning Path
-* Participating in HackTheBox
+* CompTIA Security+, Network+
+* TryHackMe SOC Analyst 1 Learning Path
+* HackTheBox participant
 * Conducting ongoing home lab projects
-* CCNA and AWS Cloud Practitioner <i>(in progress)</i>
+* AWS Cloud Practitioner <i>(in progress)</i>
 
 
 # Past Projects 
